@@ -2,5 +2,5 @@ This repository contains the source code for my GitHub Pages site, featuring two
 
 ## Games
 
-- [Granny Game](./granny/index.html) - Play the Granny game
-- [Tetris Game](./tetris/index.html) - Play the classic Tetris game
+- [Granny Game](./granny/index.html)
+- [Tetris Game](./tetris/index.html)
